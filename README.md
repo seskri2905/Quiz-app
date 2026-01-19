@@ -22,9 +22,13 @@
 
 • Had a clear Understanding of usestate hook and its uses
 
-### Ternary Operator
+### Ternary Operator [Key Concept]
 
 • As per my understanding, ternary operator can alse said as `short-hand if-else`. A simple Ternary operator plays the vital role in this project
+
+## Array of Objects [Key concept]
+
+• The fundamental JS Object oriented concept which is pracctically used to store the question as well as answer for this project
 
 # Project Demo 💻
 
