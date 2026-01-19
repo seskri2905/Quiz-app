@@ -30,4 +30,4 @@
 
 ![Gif-Demo](https://github.com/seskri2905/Quiz-app/blob/6e61513a2f0c7c0b5cca01902faa40bd39052bb9/src/assets/Quiz-app-Working-demo.gif)
 
-# Project Live Link - [Quiz-app](https://quiz-app-seskri2905.netlify.app/)
+# Project Live Link - [Quiz-app](https://quiz-app-seskri2905.netlify.app/) 🔗
